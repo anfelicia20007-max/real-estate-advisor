@@ -1,0 +1,1 @@
+{"num_cols": ["BHK", "Size_in_SqFt", "Price_in_Lakhs", "Price_per_SqFt", "Age_of_Property", "Floor_No", "Total_Floors", "Nearby_Schools", "Nearby_Hospitals", "Amenity_Count"], "cat_cols": ["State", "City", "Property_Type", "Furnished_Status", "Public_Transport_Accessibility", "Parking_Space", "Security", "Facing", "Owner_Type", "Availability_Status"]}

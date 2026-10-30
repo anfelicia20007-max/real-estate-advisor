@@ -1,0 +1,21 @@
+feature,importance
+Public_Transport_Accessibility_Low,0.30012375
+Availability_Status_Ready_to_Move,0.19080766
+BHK,0.1812612
+Price_per_SqFt,0.12541471
+Public_Transport_Accessibility_High,0.08708803
+Nearby_Schools,0.037352756
+Nearby_Hospitals,0.03734314
+Public_Transport_Accessibility_Medium,0.00805209
+City_Pune,0.0034627386
+State_Karnataka,0.0033302798
+State_Maharashtra,0.003325498
+State_Assam,0.0031774472
+City_Mangalore,0.0028446098
+Total_Floors,0.0015799176
+State_Madhya Pradesh,0.0014525946
+Size_in_SqFt,0.0014209485
+City_Durgapur,0.0011869626
+Facing_South,0.0011795985
+Price_in_Lakhs,0.0010083425
+Owner_Type_Broker,0.00096794486

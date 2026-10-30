@@ -1,0 +1,47 @@
+{
+  "classification": [
+    {
+      "model": "LogisticRegression",
+      "accuracy": 0.9099,
+      "precision": 0.9212804180957047,
+      "recall": 0.9308580858085809,
+      "f1": 0.9260444882212919
+    },
+    {
+      "model": "RandomForest",
+      "accuracy": 0.9452,
+      "precision": 0.9422336328626444,
+      "recall": 0.968976897689769,
+      "f1": 0.9554181581516433
+    },
+    {
+      "model": "XGBoost",
+      "accuracy": 0.9995,
+      "precision": 1.0,
+      "recall": 0.9991749174917491,
+      "f1": 0.9995872884853487
+    }
+  ],
+  "regression": [
+    {
+      "model": "Ridge",
+      "rmse": 11.665640578697968,
+      "mae": 8.289874354930314,
+      "r2": 0.9968848753885965
+    },
+    {
+      "model": "RandomForest",
+      "rmse": 12.352731259206363,
+      "mae": 9.188787033309339,
+      "r2": 0.9965071154815883
+    },
+    {
+      "model": "XGBoost",
+      "rmse": 1.470208873846276,
+      "mae": 1.1542550674896244,
+      "r2": 0.9999505215233201
+    }
+  ],
+  "best_classifier": "XGBoost",
+  "best_regressor": "XGBoost"
+}

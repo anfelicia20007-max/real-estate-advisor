@@ -1,0 +1,21 @@
+feature,importance
+Price_in_Lakhs,0.95445216
+Public_Transport_Accessibility_Low,0.015734103
+Public_Transport_Accessibility_High,0.015669929
+Nearby_Hospitals,0.0071676485
+Nearby_Schools,0.0065498883
+Public_Transport_Accessibility_Medium,1.5357353e-05
+City_Surat,8.352815e-06
+City_Dehradun,7.1914264e-06
+City_Warangal,7.13179e-06
+City_Guwahati,6.9712532e-06
+City_Raipur,6.5001386e-06
+City_Durgapur,6.362491e-06
+City_Haridwar,6.2429276e-06
+City_Gaya,6.1463033e-06
+City_Amritsar,6.1174146e-06
+State_Madhya Pradesh,6.02555e-06
+City_Ahmedabad,6.012738e-06
+City_Patna,5.8630862e-06
+City_Faridabad,5.6691515e-06
+City_Kochi,5.6293716e-06
